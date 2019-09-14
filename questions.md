@@ -11,7 +11,7 @@ stroke describe the outline of the shape
 
 3 screenshot
 
-!「image」https://github.com/jiayunqiu-valen/hw1/blob/master/屏幕快照%202019-09-13%20下午10.29.24.png
+! [image] https://github.com/jiayunqiu-valen/hw1/blob/master/屏幕快照%202019-09-13%20下午10.29.24.png
 
 4 What is the keyboard shortcut to open the JavaScript console in Chrome on your system?
 
