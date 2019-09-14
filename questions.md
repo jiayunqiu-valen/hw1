@@ -6,6 +6,7 @@ and the thing they define are also different.
 2 What’s the difference between fill and stroke?
 
 fill describe the interior of the shape
+
 stroke describe the outline of the shape
 
 
